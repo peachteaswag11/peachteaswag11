@@ -261,26 +261,6 @@ Writing forces me to deeply understand concepts. When I can explain how a detect
 
 ---
 
-
-
-```bash
-┌──────────────────────────────────────────────────────────────────────────┐
-│ root@security:~$ git log --stat --graph --all                           │
-└──────────────────────────────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=peachteaswag11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=5eead4&icon_color=a78bfa&text_color=94a3b8)
-
-</div>
-
-```bash
-┌──────────────────────────────────────────────────────────────────────────┐
-│ root@security:~$ cloc . --by-file-by-lang                                │
-└──────────────────────────────────────────────────────────────────────────┘
-```
-
 <div align="center">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=peachteaswag11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=5eead4&text_color=94a3b8)
