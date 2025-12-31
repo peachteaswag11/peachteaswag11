@@ -271,7 +271,7 @@ Writing forces me to deeply understand concepts. When I can explain how a detect
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=5eead4&icon_color=a78bfa&text_color=94a3b8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=peachteaswag11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=5eead4&icon_color=a78bfa&text_color=94a3b8)
 
 </div>
 
@@ -283,7 +283,7 @@ Writing forces me to deeply understand concepts. When I can explain how a detect
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=5eead4&text_color=94a3b8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=peachteaswag11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=5eead4&text_color=94a3b8)
 
 </div>
 
@@ -297,10 +297,8 @@ Writing forces me to deeply understand concepts. When I can explain how a detect
 
 ```ini
 [CONTACT_CHANNELS]
-LinkedIn = YOUR_LINKEDIN_URL
-Email = YOUR_EMAIL
-Blog = YOUR_BLOG_URL
-GitHub = https://github.com/YOUR_USERNAME
+LinkedIn = www.linkedin.com/in/chintakunta-shreya-89666b2b8
+Medium articles = https://medium.com/@shreya_cybersecurity
 
 [STATUS]
 Availability = ACTIVE
@@ -316,11 +314,10 @@ Communication = Technical discussions, Security knowledge exchange
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Blog](https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](YOUR_BLOG_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chintakunta-shreya-89666b2b8)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shreya_cybersecurity)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=5eead4&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=peachteaswag11&color=5eead4&style=flat-square&label=Profile+Views)
 
 </div>
 
