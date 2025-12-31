@@ -261,12 +261,6 @@ Writing forces me to deeply understand concepts. When I can explain how a detect
 
 ---
 
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=peachteaswag11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=5eead4&text_color=94a3b8)
-
-</div>
-
 ---
 
 ```bash
