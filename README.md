@@ -4,7 +4,7 @@
 ┌──────────────────────────────────────────────────────────────────────────┐
 │ root@security:~$ whoami                                                  │
 └──────────────────────────────────────────────────────────────────────────┘
-User: security-analyst
+User: Shreya
 Groups: blue-team defenders soc-operators threat-hunters
 Role: Year 3 Computer Science Student (Cybersecurity Specialization)
 Clearance: Blue Team Operations
